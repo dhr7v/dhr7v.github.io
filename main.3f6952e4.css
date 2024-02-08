@@ -9,17 +9,17 @@
 /*# sourceMappingURL=main.70a66962.map*/
 #icon-bar {
   position: fixed;
-  top: 10;
-  left: 10;
+  top: 0;
+  left: 0;
   z-index: 100;
-  padding: 20px;
+  padding: 10px;
   background-color: #333;
 }
 
 .button {
   display: block;
   text-align: center;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
   color: white;
   text-decoration: none;
 }
@@ -29,5 +29,5 @@
 }
 
 .fa {
-  font-size: 80px;
+  font-size: 120px;
 }
