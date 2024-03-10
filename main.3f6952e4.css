@@ -31,3 +31,9 @@
 .fa {
   font-size: 160px;
 }
+@media (max-width: 600px) {
+  body {
+    font-size: 18px;
+  }
+}
+
