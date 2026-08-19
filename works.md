@@ -10,8 +10,6 @@ It explains what he is looking for, where he fits, and gives you a copy‑paste�
 Use these one‑click actions to help Dhruv right away:
 
 - 👉 [Email Dhruv a referral](mailto:me@dhruvburman.com?subject=Referral%20for%20Dhruv%20Burman&body=Hi%20Dhruv%2C%0A%0AI%27d%20like%20to%20refer%20you%20for%20a%20role%20that%20bridges%20technology%20and%20business.%20Let%27s%20talk%20about%20the%20details.%0A)  
-- 🔍 [Open LinkedIn search with similar roles](https://www.linkedin.com/jobs/search/?keywords=Technical%20Product%20Manager%2C%20Business%20Analyst%2C%20Transformation%20Consultant)  
-- 📄 [Download Dhruv’s resume (PDF)](https://help.dhruvburman.com/resumedhruvburman.pdf)
 
 ---
 
@@ -34,7 +32,7 @@ He is currently completing his MSc in Information Communication Technology in Bu
 - **Phone (NL):** +31 06 2394 7622  
 - **Phone (IN, currently inactive):** +91 98717 77293  
 
-You can share this page along with Dhruv’s CV or forward his contact details directly when someone is interested.
+You can share this page along with Dhruv’s CV (mail request) or forward his contact details directly when someone is interested.
 
 </details>
 
@@ -165,15 +163,9 @@ If several answers are “yes”, it is likely a role where Dhruv can add strong
 ## How you can help
 
 - Share this handbook link with recruiters, managers, and friends who might have relevant openings.  
-- Forward Dhruv’s CV and contact details to people working in the sectors listed above.  
+- Forward Dhruv’s CV (request on mail) and contact details to people working in the sectors listed above.  
 - Use the ready‑made referral blurb as a starting point, and then personalise it based on how you know Dhruv.  
 
 Every referral, introduction, and conversation helps Dhruv move towards a role where he can combine his technical background with business, product, architecture, process, and delivery work.
 
 ---
-
-## Download Dhruv’s resume
-
-You can download Dhruv’s full resume as a PDF:
-
-[Download Dhruv’s resume](https://help.dhruvburman.com/resumedhruvburman.pdf)
